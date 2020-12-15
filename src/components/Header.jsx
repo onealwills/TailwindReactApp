@@ -32,7 +32,7 @@ export default function Header() {
             className="inline-block"
           />
           <h1 />
-          <button className="mb-10 animate-float bg-indigo-500 px-10 py-3 text-xl uppercase mt-10 rounded-lg">
+          <button className=" animate-float mb-10 bg-indigo-500 px-10 py-3 text-xl uppercase mt-10 rounded-lg">
             {content.header.btnText}
           </button>
         </div>
